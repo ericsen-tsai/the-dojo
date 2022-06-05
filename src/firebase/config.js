@@ -3,13 +3,14 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 import 'firebase/compat/storage'
 
+// Replace with your firebase config
 const firebaseConfig = {
-    apiKey: "AIzaSyDSBk7_m9aIuJpP8JBCUF6Xptj_WFmpN-c",
-    authDomain: "thedojosite-61b81.firebaseapp.com",
-    projectId: "thedojosite-61b81",
-    storageBucket: "thedojosite-61b81.appspot.com",
-    messagingSenderId: "225398952925",
-    appId: "1:225398952925:web:e1c7d9822591f9ebc79c34"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 // init firebase
